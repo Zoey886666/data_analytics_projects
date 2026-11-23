@@ -1,3 +1,3 @@
-# git
+# data_analytics_projects
 
-Initialized as a Git repository.
+Data analytics projects and supporting materials.
